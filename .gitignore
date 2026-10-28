@@ -1,0 +1,6 @@
+.venv-format/
+.venv*
+.venv/
+.idea/
+.env
+.env.*
